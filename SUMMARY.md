@@ -7,3 +7,7 @@
 * [Osservazioni](osservazioni/README.md)
   * [2024](osservazioni/2024/README.md)
     * [Febbraio](osservazioni/2024/febbraio.md)
+
+## Group 1
+
+* [Immagini](group-1/immagini.md)
